@@ -1,6 +1,3 @@
-pip install SpeechRecognition googletrans==4.0.0-rc1 pyttsx3 pyaudio
-
-
 import streamlit as st
 import speech_recognition as sr
 from googletrans import Translator
